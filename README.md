@@ -2,7 +2,6 @@
 <h3 align="center">Soy un apasionado de la Ciberseguridad</h3>
 
 - 💬 Pregúntame sobre **Fundamentos de Redes, Sistemas Operativos, Seguridad de la Información, Herramientas de Seguridad, Respuesta a Incidentes y Gestión de Riesgos, Criptografía, Programación y Scripting, Legislación y Ética,**
-- <script src="https://tryhackme.com/badge/3396400"></script>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align ="izquierda">
