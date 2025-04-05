@@ -1,13 +1,51 @@
-<h1 align="center">Hola 👋, me llamo: Alejandro Arroyo</h1>
-<h3 align="center">Soy un apasionado de la Ciberseguridad</h3>
+<h1 align="center">👋 ¡Hola! Soy Eliott</h1>
 
-- 💬 Pregúntame sobre **Fundamentos de Redes, Sistemas Operativos, Seguridad de la Información, Herramientas de Seguridad, Respuesta a Incidentes y Gestión de Riesgos, Criptografía, Programación y Scripting, Legislación y Ética,**
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align ="izquierda">
-<a href="https://linkedin.com/in/alejandro22-labs5" target="blank"><img align="center" src="https://raw.githubusercontent.com/ rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro22-labs5" height="30" width="40" /></a>
+<p align="center">
+  🧠 Apasionado por la ciberseguridad ofensiva y defensiva<br>
+  💻 Técnico en Ciberseguridad <br>
+  🎯 En búsqueda de mi primera oportunidad en el sector
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left" > <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash /gnu_bash-icon.svg" alt="bash" ancho="40" alto="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel ="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" ancho="40" alto="40 "/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ csharp/csharp-original.svg" alt="csharp" ancho="40" alto="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" ancho="40" alto=" 40"/> </a> <a href="https://www.microsoft.com/es-es/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" ancho="40" alto="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/ marca-palabra-original-mysql.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" alto="40"/> </a> </p>
+---
+
+## 🧰 Tecnologías y herramientas que uso
+
+- 🐧 Kali Linux, Parrot OS
+- 🧪 Caido, Burp Suite, Wireshark, Zeek, Suricata
+- ⚙️ C++, Python, Bash, Assembly
+- 🔐 Ghidra, Cuckoo, Metasploit, Nmap
+- 🛠️ VirtualBox, Docker, Git, Neovim, Zsh + Kitty
+
+---
+
+## 🔐 Mis portafolios
+
+| Tipo | Descripción | Enlace |
+|------|-------------|--------|
+| 🛡️ Defensivo | Análisis de tráfico, reglas IDS, detección de amenazas | [Ir al portafolio](https://github.com/Alejandro22-labs5/defensive-security-portfolio) |
+| ⚔️ Ofensivo | Explotación, PoCs, malware, CTFs, bug bounty | [Ir al portafolio](https://github.com/Alejandro22-labs5/offensive-security-portfolio) |
+
+---
+
+## 📜 Certificaciones y formación
+
+- 🛠️ Técnico en Ciberseguridad (2023)
+- 📘 Preparándome para: eJPT, eCPPTv3, eWPT, OSCP
+
+---
+
+## 🧠 Proyectos destacados
+
+- 🧬 **Keylogger en C++ para PoC de malware** → Parte del portafolio ofensivo
+- 📡 **Análisis de tráfico con Zeek y Wireshark** → Parte del portafolio defensivo
+- 🐚 **Reverse Shell personalizada y evasión** → Investigación ofensiva
+- 🔍 **CORS exploitation en BugBountyLabs** → PoC de vulnerabilidad mal configurada
+
+---
+
+## 📫 Contacto
+
+- 📧 Correo: hostias260@gmail.com
+- 💼 LinkedIn: [www.linkedin.com/in/alejandro22-labs5](https://www.linkedin.com/in/alejandro22-labs5)
+
 
